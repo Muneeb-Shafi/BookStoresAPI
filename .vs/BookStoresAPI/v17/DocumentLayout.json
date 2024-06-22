@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Phant\\source\\repos\\BookStoresAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E30ACDCE-2CF8-4530-8C12-812065FFCCF8}|BookStoresAPI\\BookStoresAPI.csproj|c:\\users\\phant\\source\\repos\\bookstoresapi\\bookstoresapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30ACDCE-2CF8-4530-8C12-812065FFCCF8}|BookStoresAPI\\BookStoresAPI.csproj|solutionrelative:bookstoresapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30ACDCE-2CF8-4530-8C12-812065FFCCF8}|BookStoresAPI\\BookStoresAPI.csproj|c:\\users\\phant\\source\\repos\\bookstoresapi\\bookstoresapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30ACDCE-2CF8-4530-8C12-812065FFCCF8}|BookStoresAPI\\BookStoresAPI.csproj|solutionrelative:bookstoresapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30ACDCE-2CF8-4530-8C12-812065FFCCF8}|BookStoresAPI\\BookStoresAPI.csproj|c:\\users\\phant\\source\\repos\\bookstoresapi\\bookstoresapi\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30ACDCE-2CF8-4530-8C12-812065FFCCF8}|BookStoresAPI\\BookStoresAPI.csproj|solutionrelative:bookstoresapi\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30ACDCE-2CF8-4530-8C12-812065FFCCF8}|BookStoresAPI\\BookStoresAPI.csproj|c:\\users\\phant\\source\\repos\\bookstoresapi\\bookstoresapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E30ACDCE-2CF8-4530-8C12-812065FFCCF8}|BookStoresAPI\\BookStoresAPI.csproj|solutionrelative:bookstoresapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30ACDCE-2CF8-4530-8C12-812065FFCCF8}|BookStoresAPI\\BookStoresAPI.csproj|c:\\users\\phant\\source\\repos\\bookstoresapi\\bookstoresapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30ACDCE-2CF8-4530-8C12-812065FFCCF8}|BookStoresAPI\\BookStoresAPI.csproj|solutionrelative:bookstoresapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30ACDCE-2CF8-4530-8C12-812065FFCCF8}|BookStoresAPI\\BookStoresAPI.csproj|c:\\users\\phant\\source\\repos\\bookstoresapi\\bookstoresapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30ACDCE-2CF8-4530-8C12-812065FFCCF8}|BookStoresAPI\\BookStoresAPI.csproj|solutionrelative:bookstoresapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30ACDCE-2CF8-4530-8C12-812065FFCCF8}|BookStoresAPI\\BookStoresAPI.csproj|c:\\users\\phant\\source\\repos\\bookstoresapi\\bookstoresapi\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30ACDCE-2CF8-4530-8C12-812065FFCCF8}|BookStoresAPI\\BookStoresAPI.csproj|solutionrelative:bookstoresapi\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30ACDCE-2CF8-4530-8C12-812065FFCCF8}|BookStoresAPI\\BookStoresAPI.csproj|c:\\users\\phant\\source\\repos\\bookstoresapi\\bookstoresapi\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30ACDCE-2CF8-4530-8C12-812065FFCCF8}|BookStoresAPI\\BookStoresAPI.csproj|solutionrelative:bookstoresapi\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{644E57DD-728A-4053-859C-7CAAD639A985}|docker-compose.dcproj|c:\\users\\phant\\source\\repos\\bookstoresapi\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{644E57DD-728A-4053-859C-7CAAD639A985}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30ACDCE-2CF8-4530-8C12-812065FFCCF8}|BookStoresAPI\\BookStoresAPI.csproj|c:\\users\\phant\\source\\repos\\bookstoresapi\\bookstoresapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E30ACDCE-2CF8-4530-8C12-812065FFCCF8}|BookStoresAPI\\BookStoresAPI.csproj|solutionrelative:bookstoresapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Phant\\source\\repos\\BookStoresAPI\\BookStoresAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BookStoresAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Phant\\source\\repos\\BookStoresAPI\\BookStoresAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BookStoresAPI\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:11:59.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Phant\\source\\repos\\BookStoresAPI\\BookStoresAPI\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "BookStoresAPI\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\Phant\\source\\repos\\BookStoresAPI\\BookStoresAPI\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "BookStoresAPI\\DTOs\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:08:29.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Phant\\source\\repos\\BookStoresAPI\\BookStoresAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BookStoresAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Phant\\source\\repos\\BookStoresAPI\\BookStoresAPI\\Models\\User.cs",
+              "RelativeToolTip": "BookStoresAPI\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:08:09.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Books.cs",
+              "DocumentMoniker": "C:\\Users\\Phant\\source\\repos\\BookStoresAPI\\BookStoresAPI\\Models\\Books.cs",
+              "RelativeDocumentMoniker": "BookStoresAPI\\Models\\Books.cs",
+              "ToolTip": "C:\\Users\\Phant\\source\\repos\\BookStoresAPI\\BookStoresAPI\\Models\\Books.cs",
+              "RelativeToolTip": "BookStoresAPI\\Models\\Books.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:43:03.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Phant\\source\\repos\\BookStoresAPI\\BookStoresAPI\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BookStoresAPI\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Phant\\source\\repos\\BookStoresAPI\\BookStoresAPI\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "BookStoresAPI\\Models\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:42:31.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Phant\\source\\repos\\BookStoresAPI\\BookStoresAPI\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookStoresAPI\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Phant\\source\\repos\\BookStoresAPI\\BookStoresAPI\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookStoresAPI\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAAGkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T12:52:09.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\Phant\\source\\repos\\BookStoresAPI\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\Phant\\source\\repos\\BookStoresAPI\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-06-20T12:11:41.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Phant\\source\\repos\\BookStoresAPI\\BookStoresAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "BookStoresAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Phant\\source\\repos\\BookStoresAPI\\BookStoresAPI\\appsettings.json",
+              "RelativeToolTip": "BookStoresAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T12:01:52.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Phant\\source\\repos\\BookStoresAPI\\BookStoresAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BookStoresAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Phant\\source\\repos\\BookStoresAPI\\BookStoresAPI\\Program.cs",
+              "RelativeToolTip": "BookStoresAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:56:36.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Phant\\source\\repos\\BookStoresAPI\\BookStoresAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "BookStoresAPI\\Dockerfile",
+              "ToolTip": "C:\\Users\\Phant\\source\\repos\\BookStoresAPI\\BookStoresAPI\\Dockerfile",
+              "RelativeToolTip": "BookStoresAPI\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-20T11:54:07.534Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
